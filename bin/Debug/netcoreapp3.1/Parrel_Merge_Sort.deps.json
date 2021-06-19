@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Parrel_Merge_Sort/1.0.0": {
+        "runtime": {
+          "Parrel_Merge_Sort.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parrel_Merge_Sort/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\bin\Debug\netcoreapp3.1\Parrel_Merge_Sort.exe
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\bin\Debug\netcoreapp3.1\Parrel_Merge_Sort.deps.json
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\bin\Debug\netcoreapp3.1\Parrel_Merge_Sort.runtimeconfig.json
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\bin\Debug\netcoreapp3.1\Parrel_Merge_Sort.runtimeconfig.dev.json
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\bin\Debug\netcoreapp3.1\Parrel_Merge_Sort.dll
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\bin\Debug\netcoreapp3.1\Parrel_Merge_Sort.pdb
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\obj\Debug\netcoreapp3.1\Parrel_Merge_Sort.csprojAssemblyReference.cache
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\obj\Debug\netcoreapp3.1\Parrel_Merge_Sort.AssemblyInfoInputs.cache
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\obj\Debug\netcoreapp3.1\Parrel_Merge_Sort.AssemblyInfo.cs
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\obj\Debug\netcoreapp3.1\Parrel_Merge_Sort.csproj.CoreCompileInputs.cache
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\obj\Debug\netcoreapp3.1\Parrel_Merge_Sort.dll
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\obj\Debug\netcoreapp3.1\Parrel_Merge_Sort.pdb
+C:\Users\robzy\Desktop\Szkoła\Semestr 6\Zaawansowane programowanie c#\projekt 2\Parrel_Merge_Sort\obj\Debug\netcoreapp3.1\Parrel_Merge_Sort.genruntimeconfig.cache
